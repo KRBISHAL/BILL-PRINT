@@ -1,0 +1,6 @@
+{
+  "name": "360 Graphy",
+  "description": "Bilingual photo studio POS billing and booking system with advanced single-page printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
